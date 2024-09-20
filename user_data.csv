@@ -1,0 +1,12 @@
+_id,first_name,last_name,age,gender,total_income,expenses.utilities,expenses.entertainment,expenses.school_fees,expenses.shopping,expenses.healthcare
+66eb36040f5ed433fcc8d53e,Chidinma,Peter,20,female,145000,3050,5050,7500,4800,1500
+66eb37400f5ed433fcc8d53f,Yetunde,Oluwaseyi, 25,male,280900,660,3500,7550,19000,5500
+66eb3cc70f5ed433fcc8d540,Bassey,Victor,35,male,170000,2000,1300,10000,3000,3900
+66eb3f720f5ed433fcc8d541,John,Oluwaseun,50,female,150000,7000,4500,2500,8000,9990
+66eb3fee0f5ed433fcc8d542,Tolu,Barry,25,female,180000,2000,3890,1700,7770,1000
+66eb406a0f5ed433fcc8d543,Debbie,Joy,18,male,200000,5550,1950,4780,5900,4000
+66eb40df0f5ed433fcc8d544,Seun,Ezeani,44,female,169000,7000,2750,550,9000,1789
+66eb41350f5ed433fcc8d545,Joe,Richard,29,female,320000,4300,1870,2660,4370,4500
+66eb41c00f5ed433fcc8d546,Bolu,Peju,40,female,570000,20000,4390,59000,35000,25000
+66eb42370f5ed433fcc8d547,Maryjane,Samuel,55,female,450000,10000,15500,7999,4890,9999
+66ec45ca0f5ed433fcc8d548,Etimbuk,Steven,32,male,270000,19000,35000,26700,15990,94000
